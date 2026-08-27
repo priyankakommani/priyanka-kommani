@@ -53,13 +53,4 @@ I'm a backend engineer who spent the last 1.5 years as the **sole backend owner*
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyankakommani&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankakommani&layout=compact&hide_border=true" height="165"/>
-</p>
-
----
-
 <p align="center"><i>Open to backend engineering roles — Node.js/TypeScript, distributed systems, and AI-integrated backends.</i></p>
