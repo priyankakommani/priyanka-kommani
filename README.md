@@ -2,8 +2,9 @@
 <h3 align="center">Backend Engineer — Node.js/Hono.js · PostgreSQL · AI-integrated systems</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/priyanka-kommani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:priyankakommani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/priyanka-kommani-668315244">LinkedIn</a> ·
+  <a href="https://frontend-green-pi-16.vercel.app/portfolio">Portfolio</a> ·
+  priyankakommani@gmail.com
 </p>
 
 I'm a backend engineer who spent the last 1.5 years as the **sole backend owner** at a startup — designing schemas, shipping REST APIs, and wiring up real-time systems that had to work the first time, on a startup timeline, with no one else to hand things off to.
@@ -44,13 +45,11 @@ I'm a backend engineer who spent the last 1.5 years as the **sole backend owner*
 
 *(Swap `#` for the real repo URLs.)*
 
-**Client / company engagements **
+**Also built:**
 
-| Project | What it does | Stack |
-|---|---|---|
-| Aigrad — AI Learning Platform Backend | Modular-monolith (40+ controllers, ~37k LOC), JWT/argon2 auth, RAG over pgvector for grounded tutor answers, Stripe/Razorpay webhooks | NestJS, PostgreSQL, Drizzle, Redis, BullMQ |
-| AI Full-Stack App Generator | Generates full Next.js + TS apps from prompts; provider-agnostic model router (Anthropic/Gemini/OpenAI) with a validate-and-repair loop | TypeScript, LLM routing, Drizzle |
-| Interview Management & Proctoring Platform | Live video proctoring, async job queues, speech-to-text, AI candidate scoring | Node.js, Hono.js, QStash, Deepgram |
+- **Aigrad** — AI Learning Platform Backend: modular-monolith (40+ controllers, ~37k LOC) on NestJS + PostgreSQL, JWT/argon2 auth, RAG over pgvector for grounded tutor answers, Stripe/Razorpay webhooks
+- **AI Full-Stack App Generator** — generates complete Next.js + TypeScript apps from prompts, with a provider-agnostic model router (Anthropic/Gemini/OpenAI) and a validate-and-repair loop
+- **Interview Management & Proctoring Platform** — live video proctoring, async job queues (QStash), speech-to-text (Deepgram), AI candidate scoring, on Node.js/Hono.js
 
 ---
 
