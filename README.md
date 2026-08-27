@@ -44,7 +44,7 @@ I'm a backend engineer who spent the last 1.5 years as the **sole backend owner*
 
 *(Swap `#` for the real repo URLs.)*
 
-**Client / company engagements — code is private:**
+**Client / company engagements **
 
 | Project | What it does | Stack |
 |---|---|---|
