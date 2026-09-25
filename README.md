@@ -22,6 +22,7 @@ I'm a backend engineer who spent the last 1.5 years as the **sole backend owner*
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat-square&logo=hono&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
@@ -39,11 +40,10 @@ I'm a backend engineer who spent the last 1.5 years as the **sole backend owner*
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Real-Time AI Interview Platform** — [`repo link`](#) | Sub-500ms AI voice response over WebRTC; streams transcripts to S3, auto-generates recordings | Node.js, LiveKit Agents SDK, WebRTC |
-| **OrderFlow** — [`repo link`](#) | RBAC across 5 permission levels with country-scoped Re-BAC enforced at the DB layer; code-first GraphQL | NestJS, GraphQL, Prisma |
-| **SessionSync** — [`repo link`](#) | Mentorship platform with AI session summarization and rate-limited LLM endpoint | Node.js, Express, Drizzle |
-
-*(Swap `#` for the real repo URLs.)*
+| **Settle — Travel Expense Reimbursement** — [`repo`](https://github.com/priyankakommani/settle) · [`live demo`](https://settle-six-mu.vercel.app) | Turns a post-trip inbox (`.eml` emails + receipt photos) into a policy-checked expense claim: hand-rolled MIME parsing, OCR, dedupe, a config-driven policy engine, value-based approval routing and a strict Draft → Paid state machine | Hono.js, PostgreSQL, Drizzle ORM, React, Tesseract.js |
+| **Real-Time AI Interview Platform** — [`repo`](https://github.com/priyankakommani/livekit-live-api) | Sub-500ms AI voice response over WebRTC; streams transcripts to S3, auto-generates recordings | Node.js, LiveKit Agents SDK, WebRTC |
+| **OrderFlow** — [`repo`](https://github.com/priyankakommani/food-ordering-application) | RBAC across 5 permission levels with country-scoped Re-BAC enforced at the DB layer; code-first GraphQL | NestJS, GraphQL, Prisma |
+| **SessionSync** — [`repo`](https://github.com/priyankakommani/Mentora-Paltform) | Mentorship platform with AI session summarization and rate-limited LLM endpoint | Node.js, Express, Drizzle |
 
 **Also built:**
 
